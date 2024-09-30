@@ -22,11 +22,11 @@
         <section>
             <h2>Certifications</h2>
             <p>I am licensed and certified to do Basic Life Support.</p>
-            <img src="images/certificate.jpg" alt="Basic Life Support Certificate">
+            <img src="images/certificate.png" alt="Basic Life Support Certificate">
         </section>
         <section>
             <h2>About Me</h2>
-            <img src="images/profile.jpg" alt="Profile Picture">
+            <img src="images/profile picture.jpg" alt="Profile Picture">
             <p>I'm an avid reader and writer, with a passion for novels. In my free time, you can find me curled up with a good book or scribbling away in my journal.</p>
         </section>
         <section>
